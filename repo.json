@@ -1,1 +1,8 @@
-hi
+{ 
+"schemaVersion": 1, 
+"identifier": "Milan.minh.com", 
+"name": "MilanVu Repository", 
+"description": "Kho lưu trữ của Milan\n Contact tele:@milanvudev",
+"accentColor": "#10e0e0",
+"icon": "assets/IMG_0651.jpeg", 
+}
