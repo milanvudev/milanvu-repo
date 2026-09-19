@@ -17,6 +17,22 @@
   </a>
 </p>
 
+<h3 align="left">Languages</h3>
+
+<table>
+  <tr>
+    <td width="82%" bgcolor="#F05138">&nbsp;</td>
+    <td width="16%" bgcolor="#438EFF">&nbsp;</td>
+    <td width="2%" bgcolor="#555555">&nbsp;</td>
+  </tr>
+</table>
+
+<p align="left">
+  <span style="color:#F05138;">●</span> <strong>Swift</strong> 82.1% &nbsp;&nbsp;
+  <span style="color:#438EFF;">●</span> <strong>Objective-C</strong> 15.8% &nbsp;&nbsp;
+  <span style="color:#555555;">●</span> <strong>C</strong> 2.1%
+</p>
+
 </div>
 
 ---
