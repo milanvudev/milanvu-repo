@@ -42,7 +42,7 @@ I was born in **2012**. I know some people may not believe that, because this ag
 <table>
   <tr>
     <td align="center" width="260">
-      <img src="https://img.shields.io/badge/Wallpapers-Phones%20%7C%20Desktops-7C3AED?style=for-the-badge" alt="Wallpapers">
+      <img src="https://img.shields.io/badge/Wallpapers-iPhone-7C3AED?style=for-the-badge" alt="Wallpapers for iPhone">
       <br><br>
       Designed exclusively for your iPhone.
     </td>
@@ -78,9 +78,15 @@ I was born in **2012**. I know some people may not believe that, because this ag
 
 ## <font color="#EC4899">Support The Project</font>
 
-<img src="https://img.shields.io/badge/Star-this%20repository-FACC15?style=for-the-badge" alt="Star this repository">
-<img src="https://img.shields.io/badge/Share-with%20friends-22C55E?style=for-the-badge" alt="Share with friends">
-<img src="https://img.shields.io/badge/Follow-for%20updates-06B6D4?style=for-the-badge" alt="Follow for updates">
+<a href="#support-the-project">
+  <img src="https://img.shields.io/badge/Star-this%20repository-FACC15?style=for-the-badge" alt="Star this repository">
+</a>
+<a href="#support-the-project">
+  <img src="https://img.shields.io/badge/Share-with%20friends-22C55E?style=for-the-badge" alt="Share with friends">
+</a>
+<a href="https://github.com/milanvudev">
+  <img src="https://img.shields.io/badge/Follow-for%20updates-06B6D4?style=for-the-badge" alt="Follow for updates">
+</a>
 
 </div>
 
