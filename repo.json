@@ -13,11 +13,16 @@
       "author": "小田",
       "version": "1.0.0",
       "summary": "Wallpaper LuLu",
-      "description": "Tendies LuLu siêu bá khi",
+      "description": "Tendies LuLu siêu bá khí",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper"
-      ],
+      ], 
+"icon": "assets/IMG_0666.jpeg", 
+"screenshots": [ 
+"assets/IMG_0664.png",
+"assets/IMG_0663.png"
+], 
       "publishedAt": "2026-09-19T09:16:00Z",
       "download": "packages/LuLu.tendies",
       "sha256": "909ccc4a5997b4297b885398d7b8b309743ba3b70794b8231cc16a5e2a24ea4b",
