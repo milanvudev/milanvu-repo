@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <font color="#7C3AED">MilanVu Storage Repository</font>
+  <font color="#7C3AED">Milan Vu Storage Repository</font>
 </h1>
 
 <h3>
@@ -17,22 +17,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages</h3>
-
-<table>
-  <tr>
-    <td width="82%" bgcolor="#F05138">&nbsp;</td>
-    <td width="16%" bgcolor="#438EFF">&nbsp;</td>
-    <td width="2%" bgcolor="#555555">&nbsp;</td>
-  </tr>
-</table>
-
-<p align="left">
-  <span style="color:#F05138;">●</span> <strong>Swift</strong> 82.1% &nbsp;&nbsp;
-  <span style="color:#438EFF;">●</span> <strong>Objective-C</strong> 15.8% &nbsp;&nbsp;
-  <span style="color:#555555;">●</span> <strong>C</strong> 2.1%
-</p>
-
 </div>
 
 ---
@@ -45,7 +29,7 @@
 
 Hello everyone, this is my storage repository. This is where I will share packs, wallpapers, and other visual resources. Thank you for supporting me.
 
-My name is **[milanvu](https://github.com/milanvudev)**, and I am the creator of this repo. The person who helped me build the repository is **[denrindz](https://github.com/denrindz)**. Big thanks to **[denrindz](https://github.com/denrindz)** for helping bring this project to life.
+My name is **[milanvu](https://github.com/milanvudev)**, and I am the creator of this repo. The person who helped me build the website is **[denrindz](https://github.com/denrindz)**. Big thanks to **[denrindz](https://github.com/denrindz)** for helping bring this project to life.
 
 I was born in **2012**. I know some people may not believe that, because this age can look pretty fake online, and I completely understand that. I cannot really prove it, but I still want to be honest about who I am. I am learning, creating, and trying to improve with every pack I make.
 
