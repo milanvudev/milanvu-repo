@@ -44,7 +44,7 @@ I was born in **2012**. I know some people may not believe that, because this ag
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/Wallpapers-Phones%20%7C%20Desktops-7C3AED?style=for-the-badge" alt="Wallpapers">
       <br><br>
-      Wallpapers for phones, desktops, setups, and profiles.
+      Designed exclusively for your iPhone.
     </td>
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/Packs-Shared%20Collections-06B6D4?style=for-the-badge" alt="Packs">
