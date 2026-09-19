@@ -22,12 +22,14 @@
 ---
 
 <div align="center">
-Hello everyone, this is my storage repository. This is where I will share packs, wallpapers, and other visual resources. Thank you for supporting me.
+
 ## <font color="#F97316">About This Repository</font>
 
 </div>
 
+Welcome to my wallpaper repository. This place is made for sharing wallpapers, creative packs, and other visual resources that I hope people will enjoy using on their phones, desktops, setups, profiles, and personal projects.
 
+My name is **[milanvu](https://github.com/milanvudev)**, and I am the creator of this repo. The person who helped me build the website is **[denrindz](https://github.com/denrindz)**. Big thanks to **[denrindz](https://github.com/denrindz)** for helping bring this project to life.
 
 I was born in **2012**. I know some people may not believe that, because this age can look pretty fake online, and I completely understand that. I cannot really prove it, but I still want to be honest about who I am. I am learning, creating, and trying to improve with every pack I make.
 
