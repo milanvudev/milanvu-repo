@@ -9,9 +9,12 @@
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Creator-milanvu-7C3AED?style=for-the-badge" alt="Creator: milanvu">
-  <img src="https://img.shields.io/badge/Web%20Helper-denrindz-06B6D4?style=for-the-badge" alt="Web helper: denrindz">
-  <img src="https://img.shields.io/badge/Wallpaper%20Packs-Coming%20Soon-22C55E?style=for-the-badge" alt="Wallpaper packs coming soon">
+  <a href="https://github.com/milanvudev">
+    <img src="https://img.shields.io/badge/Creator-milanvu-7C3AED?style=for-the-badge" alt="Creator: milanvu">
+  </a>
+  <a href="https://github.com/denrindz">
+    <img src="https://img.shields.io/badge/Web%20Helper-denrindz-06B6D4?style=for-the-badge" alt="Web helper: denrindz">
+  </a>
 </p>
 
 </div>
@@ -26,7 +29,7 @@
 
 Welcome to my wallpaper repository. This place is made for sharing wallpapers, creative packs, and other visual resources that I hope people will enjoy using on their phones, desktops, setups, profiles, and personal projects.
 
-My name is **milanvu**, and I am the creator of this repo. The person who helped me build the website is **denrindz**. Big thanks to denrindz for helping bring this project to life.
+My name is **[milanvu](https://github.com/milanvudev)**, and I am the creator of this repo. The person who helped me build the website is **[denrindz](https://github.com/denrindz)**. Big thanks to **[denrindz](https://github.com/denrindz)** for helping bring this project to life.
 
 I was born in **2012**. I know some people may not believe that, because this age can look pretty fake online, and I completely understand that. I cannot really prove it, but I still want to be honest about who I am. I am learning, creating, and trying to improve with every pack I make.
 
@@ -73,8 +76,8 @@ Your support helps motivate me to create more packs, more wallpapers, and better
 
 | Role | Name |
 | --- | --- |
-| Creator | **milanvu** |
-| Website Helper | **denrindz** |
+| Creator | **[milanvu](https://github.com/milanvudev)** |
+| Website Helper | **[denrindz](https://github.com/denrindz)** |
 
 ---
 
