@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1>
-  <font color="#7C3AED">Milanvu Wallpaper Collection</font>
+  <font color="#7C3AED">Milan Vu Storage Repository</font>
 </h1>
 
 <h3>
-  <font color="#06B6D4">Wallpapers, packs, and creative resources made with passion</font>
+  <font color="#06B6D4">Wallpapers, packs, and resources collected from the internet and shared again</font>
 </h3>
 
 <p>
@@ -27,7 +27,7 @@
 
 </div>
 
-Welcome to my wallpaper repository. This place is made for sharing wallpapers, creative packs, and other visual resources that I hope people will enjoy using on their phones, desktops, setups, profiles, and personal projects.
+Hello everyone, this is my storage repository. This is where I will share packs, wallpapers, and other visual resources. Thank you for supporting me.
 
 My name is **[milanvu](https://github.com/milanvudev)**, and I am the creator of this repo. The person who helped me build the website is **[denrindz](https://github.com/denrindz)**. Big thanks to **[denrindz](https://github.com/denrindz)** for helping bring this project to life.
 
