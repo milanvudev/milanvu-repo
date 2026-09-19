@@ -49,6 +49,138 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{
+  "identifier": "Milan.luoxiaohei.com",
+      "kind": "wallpaper",
+      "name": "Luo-Xiaohei-And-Wuxian Wallpaper",
+      "author": "Anonymous",
+      "version": "1.0.0",
+      "summary": "Wallpaper Luo-Xiaohei-And-Wuxian",
+      "description": "Tendies Luo-Xiaohei-And-Wuxian siêu bá khi",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper"
+      ], 
+"icon": "assets/IMG_0712.jpeg", 
+"screenshots": [ 
+"assets/IMG_0709.jpeg",
+"assets/IMG_0710.jpeg"
+], 
+      "publishedAt": "2026-09-20T00:33:00Z",
+      "download": "packages/Luo-Xiaohei-And-Wuxian.tendies",
+      "sha256": "5070b3dbc2f75c5950b986fd181003e106b1ef7204186c92cf4beeacacf4f22b",
+      "size": 21732333,
+     "supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{
+   "identifier": "Milan.Asuka_Langley_Soryu.com",
+      "kind": "wallpaper",
+      "name": "Asuka_Langley_Soryu Wallpaper",
+      "author": "Anonymous",
+      "version": "1.0.0",
+      "summary": "Wallpaper Asuka_Langley_Soryu",
+      "description": "Tendies Asuka_Langley_Soryu siêu bá khi",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper"
+      ], 
+"icon": "assets/IMG_0716.jpeg", 
+"screenshots": [ 
+"assets/IMG_0713.jpeg",
+"assets/IMG_0714.jpeg"
+], 
+      "publishedAt": "2026-09-20T00:41:00Z",
+      "download": "packages/Asuka_Langley_Soryu.tendies",
+      "sha256": "b192670ec9194bfa28d0fd67937c0a7ef680a08a3efbebe329014eaaeb565a42",
+      "size": 8219562,
+     "supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{
+   "identifier": "Milan.star.com",
+      "kind": "wallpaper",
+      "name": "Star Wallpaper",
+      "author": "Anonymous",
+      "version": "1.0.0",
+      "summary": "Wallpaper Star",
+      "description": "Tendies Star siêu bá khi",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper"
+      ], 
+"icon": "assets/IMG_0720.png", 
+"screenshots": [ 
+"assets/IMG_0717.jpeg",
+"assets/IMG_0718.jpeg"
+], 
+      "publishedAt": "2026-09-20T01:02:00Z",
+      "download": "packages/Star.tendies",
+      "sha256": "b1427fe8be2339639cff84268fbec95877101a1333c8ad08f1a4454937c87d9f",
+      "size": 15279562,
+     "supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
