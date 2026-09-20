@@ -95,50 +95,6 @@
 "isPrivate": false 
 },
 {
-   "identifier": "Milan.Asuka_Langley_Soryu.com",
-      "kind": "wallpaper",
-      "name": "Asuka_Langley_Soryu Wallpaper",
-      "author": "Anonymous",
-      "version": "1.0.0",
-      "summary": "Wallpaper Asuka_Langley_Soryu",
-      "description": "Tendies Asuka_Langley_Soryu siêu bá khi",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper"
-      ], 
-"icon": "assets/IMG_0716.jpeg", 
-"screenshots": [ 
-"assets/IMG_0713.jpeg",
-"assets/IMG_0714.jpeg"
-], 
-      "publishedAt": "2026-09-20T00:41:00Z",
-      "download": "packages/Asuka_Langley_Soryu.tendies",
-      "sha256": "b192670ec9194bfa28d0fd67937c0a7ef680a08a3efbebe329014eaaeb565a42",
-      "size": 8219562,
-     "supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-{
    "identifier": "Milan.star.com",
       "kind": "wallpaper",
       "name": "Star Wallpaper",
@@ -159,50 +115,6 @@
       "download": "packages/Star.tendies",
       "sha256": "b1427fe8be2339639cff84268fbec95877101a1333c8ad08f1a4454937c87d9f",
       "size": 15279562,
-     "supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-{
-   "identifier": "Milan.Asuka_Langley_Soryu.com",
-      "kind": "wallpaper",
-      "name": "Asuka_Langley_Soryu Wallpaper",
-      "author": "Anonymous",
-      "version": "1.0.0",
-      "summary": "Wallpaper Asuka_Langley_Soryu",
-      "description": "Tendies Asuka_Langley_Soryu siêu bá khi",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper"
-      ], 
-"icon": "assets/IMG_0716.jpeg", 
-"screenshots": [ 
-"assets/IMG_0713.jpeg",
-"assets/IMG_0714.jpeg"
-], 
-      "publishedAt": "2026-09-20T00:41:00Z",
-      "download": "packages/Asuka_Langley_Soryu.tendies",
-      "sha256": "b192670ec9194bfa28d0fd67937c0a7ef680a08a3efbebe329014eaaeb565a42",
-      "size": 8219562,
      "supportedOS": [ 
 { 
 "minimum": "17.0", 
