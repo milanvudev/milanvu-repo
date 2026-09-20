@@ -183,50 +183,6 @@
 "isPrivate": false 
 },
 {
-   "identifier": "Milan.lulu.com",
-      "kind": "wallpaper",
-      "name": "LuLu Wallpaper",
-      "author": "小田",
-      "version": "1.0.0",
-      "summary": "Wallpaper LuLu",
-      "description": "Tendies LuLu siêu bá khí",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper"
-      ], 
-"icon": "assets/IMG_0666.jpeg", 
-"screenshots": [ 
-"assets/IMG_0664.png",
-"assets/IMG_0663.png"
-], 
-      "publishedAt": "2026-09-19T09:16:00Z",
-      "download": "packages/LuLu.tendies",
-      "sha256": "909ccc4a5997b4297b885398d7b8b309743ba3b70794b8231cc16a5e2a24ea4b",
-      "size": 15125554,
-     "supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-{
    "identifier": "Milan.Asuka_Langley_Soryu.com",
       "kind": "wallpaper",
       "name": "Asuka_Langley_Soryu Wallpaper",
